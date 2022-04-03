@@ -8,6 +8,7 @@ conditioning and industrial purpose.
 The main purpose of this project was to explore  and analysis the data set using visualization method.
 Various questions were created during the proposal of the project and they were explained using
 visualization methods such as bar chart, pie chart, scatter plot, time series and folium map with markers.
+The language used for this analysis was Python and various libraries like pandas, numpy, matplotlib were used for the project.
 
 
  
